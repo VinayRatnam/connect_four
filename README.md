@@ -1,2 +1,2 @@
 # connect_four
-"""Connect four game"""
+Connect four game
